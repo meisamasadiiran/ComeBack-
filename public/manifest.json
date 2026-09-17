@@ -1,0 +1,18 @@
+{
+  "name": "Comeback | کامبک",
+  "short_name": "Comeback",
+  "description": "برگرد. فقط برای امروز. — اپلیکیشن همراه مسیر بهبودی و بازگشت",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F5F0",
+  "theme_color": "#F7F5F0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 128x128 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
